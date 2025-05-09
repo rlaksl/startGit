@@ -36,19 +36,3 @@
     transform: rotate(360deg);
   }
 }
-
-*{
-  color: gray;
-  text-align: center;
-}
-
-div{
-  background-color: khaki;
-}
-ul, li{
-  list-style: none;
-}
-input{
-  padding: 5px 10px;
-  width: 300px;
-}
