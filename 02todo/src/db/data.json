@@ -1,0 +1,22 @@
+{
+  "todos": [
+    {
+      "id": "24fc",
+      "text": "밥 먹기",
+      "completed": false,
+      "createdAt": "2025-05-13T07:45:09.404Z"
+    },
+    {
+      "id": "42aa",
+      "text": "숨 쉬기",
+      "completed": false,
+      "createdAt": "2025-05-13T07:46:00.756Z"
+    },
+    {
+      "id": "897d",
+      "text": "화장실 가기",
+      "completed": false,
+      "createdAt": "2025-05-13T07:47:43.244Z"
+    }
+  ]
+}

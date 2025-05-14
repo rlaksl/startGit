@@ -11,6 +11,18 @@
     {
       "id": "3",
       "day": 3
+    },
+    {
+      "id": "4897",
+      "day": 4
+    },
+    {
+      "id": "3ac4",
+      "day": 5
+    },
+    {
+      "id": "b963",
+      "day": 6
     }
   ],
   "words": [
@@ -47,6 +59,48 @@
       "day": 3,
       "eng": "pencil",
       "kor": "연필",
+      "isDone": false
+    },
+    {
+      "id": "86e0",
+      "day": "1",
+      "eng": "",
+      "kor": "",
+      "isDone": false
+    },
+    {
+      "id": "950a",
+      "day": "1",
+      "eng": "",
+      "kor": "",
+      "isDone": false
+    },
+    {
+      "id": "988c",
+      "day": "4",
+      "eng": "computer",
+      "kor": "컴퓨터",
+      "isDone": false
+    },
+    {
+      "id": "03da",
+      "day": "4",
+      "eng": "banana",
+      "kor": "바나나",
+      "isDone": false
+    },
+    {
+      "id": "0e46",
+      "day": "1",
+      "eng": "banana",
+      "kor": "바나나",
+      "isDone": false
+    },
+    {
+      "id": "87df",
+      "day": 4,
+      "eng": "banana",
+      "kor": "바나나",
       "isDone": false
     }
   ]
